@@ -1,0 +1,2 @@
+# Kertas-Gunting-Batu
+game
